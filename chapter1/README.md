@@ -1,2 +1,2 @@
-# HTML-CHAPTER-1.
-learning html concepts 
+# HTML-Learning-journey.
+learning html concepts with code
